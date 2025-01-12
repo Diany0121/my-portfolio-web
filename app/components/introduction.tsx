@@ -31,9 +31,9 @@ const Introduction = () => {
             />
           </h1>
 
-          <p className="mx-auto mb-2  text-gray-600 md:mx-0 md:mb-8  md:text-xl text-sm">
-            Diseñadora convertida en desarrolladora de software, con un pasión
-            por combinar la cratividad con al precisión técnica.
+          <p className="mx-auto mb-2  text-gray-600 md:mx-0 md:mb-12  md:text-base text-sm">
+          Provengo del entorno del diseño UX / UI y gráfico.
+          Aportando una comprensión de la estética, la usabilidad y la creación de experiencias visualmente impactantes para el usuario.
           </p>
 
           <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10 text-gray-600">

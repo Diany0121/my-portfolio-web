@@ -24,15 +24,11 @@ const PageAboutMe = () => {
             </h1>
 
             <p className=" mb-5 text-base text-slate-400">
-              Diseñadora convertida en desarrolladora de software, con una
-              pasión por combinar la creatividad con la precisión técnica. Con
-              una sólida formación en diseño gráfico y una transición hacia el
-              desarrollo web, combinando la estética con la funcionalidad en
-              cada proyecto. Me adapto fácilmente a dinámicas de equipo,
-              aportando una comunicación clara. Mi transición al desarrollo de
-              software es un testimonio de mi compromiso con el aprendizaje
-              continuo. Siempre buscando oportunidades para expandir mis
-              habilidades.
+            Motivada por el deseo de transformar ideas creativas en web interactivas, decidí expandir mis habilidades hacia la programación web. Dominando tecnologías claves como HTML, CSS y JavaScript, y me he especializado en frameworks modernos como React y Next.js.
+            </p>
+
+            <p className=" mb-5 text-base text-slate-400">
+            Esta combinación de diseño y desarrollo me permite construir interfaces intuitivas y responsive, asegurando que cada proyecto no solo luzca increíble, sino que también funcione de manera eficiente y fluida.
             </p>
 
             <Link

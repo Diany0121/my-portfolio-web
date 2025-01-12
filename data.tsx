@@ -60,21 +60,21 @@ export const dataAboutPage = [
         id: 1,
         title: "Junior Frontend Developer",
         subtitle: "TresBits Ingenieros de Software SL",
-        description: "Colabora con un equipo dinámico para desarrollar interfaces de usuario atractivas y funcionales que impulsen el éxito de nuestros clientes en el mundo digital.",
+        description: "Desempeño el rol de junior frontend con Angular y diseñadora UX/UI. Desarrollo interfaces de usuario responsivas y optimizadas, asegurando una experiencia intuitiva y centrada en el usuario. Colaboro con equipos multidisciplinarios para implementar soluciones tecnológicas que cumplen con los objetivos de negocio y las necesidades de los clientes.",
         date: "Jun 2024 / Act",
     },
     {
         id: 2,
         title: "Junior Full Stack Developer",
         subtitle: "AdoptaUnJunior",
-        description: "Trabaja en proyectos emocionantes que desafían los límites de la creatividad y la tecnología. Únete a nosotros mientras creamos experiencias digitales cautivadoras que inspiran y cautivan a nuestros usuarios.",
+        description: "Participé en el desarrollo de un blog para #Adoptaunjunior, enfocándonos en SEO y accesibilidad para atraer clientes y talento junior. Utilizamos tecnologías como NextJS, TypeScript, NodeJS y TailwindCSS, garantizando coherencia visual con la web principal. Implementé funcionalidades clave como roles de usuario, editor de contenido avanzado y sistemas de comentarios seguros. Este proyecto fortaleció mis habilidades en desarrollo frontend y trabajo en equipo, contribuyendo a una estrategia de contenido efectiva y atractiva.",
         date: "Abr 2024 / Jun 2024",
     },
     {
         id: 3,
         title: "Bootcamp Programación Web",
         subtitle: "Adalab",
-        description: "Como desarrollador frontend, tendrás la oportunidad de colaborar en proyectos diversos y desafiantes que te permitirán expandir tus habilidades y dejar tu huella en el mundo digital.",
+        description: "Durante mi formación en bootcamp, me especialicé en maquetación con HTML5, CSS3, Flexbox, CSS Grid, SASS y Bootstrap, y desarrollé aplicaciones frontend utilizando JavaScript (ES6) y React. Adquirí conocimientos en consumo de APIs de terceros y fundamentos de backend con Node.js, Express y SQL. Manejo herramientas como Git, GitHub, VSCode, Slack, Gulp y Zeplin, y aplico control de versiones y metodologías de trabajo en equipo. Estas competencias me permiten crear interfaces intuitivas y funcionales, listas para enfrentar desafíos en el desarrollo web frontend.",
         date: "Nov 2023 / Mar 2024",
     },
     {
@@ -89,7 +89,7 @@ export const dataAboutPage = [
         title: "Diseñadora & Community Manager",
         subtitle: "Tacubaya Consulting",
         description: "Diseñadora gráfica con experiencia en agencia de publicidad y Community Manager, he desarrollado habilidades en el diseño gráfico, la creación de contenido, la gestión de redes sociales y la atención al cliente.       ",
-        date: "May 2021 / Oct ",
+        date: "May 2021 / Oct 2023 ",
     },
 ]
 
@@ -191,21 +191,21 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Proyectos Molones",
-        image: "/portada_projectTwo.png",
+        title: "Tarjetas de proyectos",
+        image: "/portada_projectTwo.jpg",
         urlGithub: "https://github.com/Diany0121/project-promo-V-module-4-team-1",
         urlDemo: "https://project-promo-v-module-4-team-1.onrender.com/",
     },
     {
         id: 2,
-        title: "Harry Potter",
-        image: "/portada_projectThree.png",
+        title: "Buscador de personajes",
+        image: "/portada_projectThree.jpg",
         urlGithub: "https://github.com/Diany0121/modulo-3-evaluacion-final-Diany0121",
         urlDemo: "https://diany0121.github.io/modulo-3-evaluacion-final-Diany0121/",
     },
     {
         id: 3,
-        title: "Awesome Profile Cards",
+        title: "Tarjetas de perfil",
         image: "/Avesome_profile-cards.jpg",
         urlGithub: "https://github.com/Diany0121/project-promo-V-module-2-team-1",
         urlDemo: "https://diany0121.github.io/project-promo-V-module-2-team-1/",
@@ -213,39 +213,19 @@ export const dataPortfolio = [
     },
     {
         id: 4,
-        title: "Web colaborativa",
-        image: "/portada_projectOne.png",
+        title: "Web grupal",
+        image: "/portada_projectOne.jpg",
         urlGithub: "https://github.com/Diany0121/Group-project",
         urlDemo: "https://diany0121.github.io/Group-project/",
     },
     {
         id: 5,
-        title: "Webs Impactantes",
-        image: "/image-5.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Blog Adopata un Junior",
+        image: "/AUJ.jpg",
+        urlGithub: "https://github.com/lasantavispa/blog/tree/devSecondary",
+        urlDemo: "https://adoptaunjunior.es/",
     },
-    {
-        id: 6,
-        title: "Web Dinámica",
-        image: "/image-6.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
-    },
-    {
-        id: 7,
-        title: "Dark Web ",
-        image: "/image-7.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
-    },
-    {
-        id: 8,
-        title: "E-commerce web",
-        image: "/image-8.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
-    }
+    
 ];
 
 export const dataTestimonials = [
