@@ -13,7 +13,7 @@ interface PortfolioBoxProps {
 
 const PortfolioBox = (props: PortfolioBoxProps) => {
   const { data } = props;
-  const { id, title, image, urlGithub, urlDemo } = data;
+  const { title, image, urlGithub, urlDemo } = data;
 
   return (
     <div className="p-4 border border-gray-400 rounded-xl transition-all duration-300 hover:border-secondary">
