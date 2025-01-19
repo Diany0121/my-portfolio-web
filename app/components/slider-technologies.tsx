@@ -10,7 +10,7 @@ const SliderTechnologies = () => {
         <Swiper
             breakpoints={{
                 320: {
-                    slidesPerView: 1,
+                    slidesPerView: 2,
                     spaceBetween: 15,
                 },
                 768: {
@@ -32,10 +32,10 @@ const SliderTechnologies = () => {
 
             {serviceData.map((item, index) => (
                 <SwiperSlide key={index} >
-                    <div className="flex px-6 py-8 h-auto md:h-[170px] rounded-lg cursor-pointer bg-[rgba(55,123,47,0.15)] sm:flex-col gap-x-6 sm:gap-x-0 group hover:bg-[rgba(105,150,100,0.15)] transition-all duration-300 hover:border-secondary border-2 ">
+                    <div className="flex flex-col px-6 py-8 h-auto md:h-[170px] rounded-lg cursor-pointer bg-[rgba(55,123,47,0.15)] sm:flex-col gap-x-6 sm:gap-x-0 group hover:bg-[rgba(105,150,100,0.15)] transition-all duration-300 hover:border-secondary border-2 ">
                     <div className="mb-4 text-4xl">{item.logo}</div>
                         <div>
-                            <h3 className="mb-4 text-lg">{item.title}</h3>
+                            <h3 className="mb-4 text-sm md:text-lg">{item.title}</h3>
                         </div>
                     </div>
                 </SwiperSlide>
