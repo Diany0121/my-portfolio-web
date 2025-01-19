@@ -17,7 +17,7 @@ const PageAboutMe = () => {
         <TransitionPage />
 
         <div className=" grid items-center justify-center h-3/6 max-w-5xl gap-8 mx-auto md:grid-cols-2 md:px-5">
-          <div className="max-m-[450px] mt-20 md:mt-0">
+          <div className="max-m-[450px] mt-10 md:mt-0">
             <h1 className="text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-2 text-gray-600">
               Sobre {""}
               <span className="font-bold text-secondary">mi</span>
