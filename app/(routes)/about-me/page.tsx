@@ -32,7 +32,7 @@ const PageAboutMe = () => {
             </p>
 
             <Link
-              href="https://drive.google.com/file/d/1a5lOzQf4Zg5uZM37Ef2dwrcaRgWB73Wg/view?usp=sharing"
+              href="/Dianelys%20Martinez_CV.pdf" passHref
               className="px-3 py-3 rounded-lg text-white bg-secondary hover:bg-white hover:text-secondary hover:border-secondary hover:border"
               target="_blank"
             >

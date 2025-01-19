@@ -1,4 +1,4 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin,  Rss,  Crop, Pencil, Computer, Book, Rocket, Speech, Github, Mail } from "lucide-react";
+import { CodeSquare, HomeIcon, UserRound, Linkedin, Github} from "lucide-react";
 import { SlSocialBehance } from "react-icons/sl";
 import { IoLogoJavascript, IoLogoHtml5, IoLogoCss3, IoLogoSass, IoLogoReact } from "react-icons/io5";
 import { SiTypescript, SiTailwindcss } from "react-icons/si";
