@@ -220,7 +220,7 @@ export const dataPortfolio = [
     },
     {
         id: 5,
-        title: "Blog Adopata un Junior",
+        title: "Blog Adopta un Junior",
         image: "/AUJ.jpg",
         urlGithub: "https://github.com/lasantavispa/blog/tree/devSecondary",
         urlDemo: "https://adoptaunjunior.es/",
